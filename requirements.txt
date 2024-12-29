@@ -1,0 +1,17 @@
+tensorflow-gpu==1.14.0
+protobuf==3.20
+Pillow
+requests
+matplotlib
+scipy
+scikit-image
+boto3
+tqdm
+scikit-learn
+fbpca
+PyOpenGL
+pyopengltk
+glumpy
+argparse
+lazy_loader
+pytorch_fid
