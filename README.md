@@ -4,6 +4,7 @@
 Install the necessary packages using the following commands:
 
 ```bash
+git clone --recursive https://github.com/xhli-code/stylegan2-ganspace.git
 conda create -n gan_work python=3.7
 conda activate gan_work
 pip install torch==1.5.0+cu101 torchvision==0.6.1+cu101 -f https://download.pytorch.org/whl/torch_stable.html
